@@ -1,0 +1,17 @@
+var variable1 = 15,
+    variable2 = "dog",
+    variable3 = 24,
+    variable4 = "this is a sentence",
+    variable5 = "why are you reading this?",
+    variable6 = 2141424,
+    variable7 = "this is number 7",
+    variable8 = 1234,
+    variable9 = "sentence",
+    variable10 = 5325,
+    variable11 = "words",
+    variable12 = "something",
+    variable13 = 567132,
+    variable14 = "some words",
+    variable15 = 121314,
+    variable16 = "last variable";
+    
